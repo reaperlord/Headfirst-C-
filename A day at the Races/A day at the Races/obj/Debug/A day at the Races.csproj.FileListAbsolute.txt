@@ -1,0 +1,14 @@
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\obj\Debug\A day at the Races.csprojResolveAssemblyReference.cache
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\obj\Debug\A_day_at_the_Races.Form1.resources
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\obj\Debug\A_day_at_the_Races.Properties.Resources.resources
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\obj\Debug\A day at the Races.csproj.GenerateResource.Cache
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\obj\Debug\A day at the Races.csproj.CoreCompileInputs.cache
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\bin\Debug\A day at the Races.exe.config
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\bin\Debug\A day at the Races.exe
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\bin\Debug\A day at the Races.pdb
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\obj\Debug\A day at the Races.exe
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\obj\Debug\A day at the Races.pdb
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\bin\Debug\A day at the Races.exe.manifest
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\bin\Debug\A day at the Races.application
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\obj\Debug\A day at the Races.exe.manifest
+C:\Users\flothow\source\repos\A day at the Races\A day at the Races\obj\Debug\A day at the Races.application
