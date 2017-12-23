@@ -1,0 +1,10 @@
+C:\Users\flothow\source\repos\ExploreTheHouse\WindowsFormsApp5\bin\Debug\ExploreTheHouse.exe.config
+C:\Users\flothow\source\repos\ExploreTheHouse\WindowsFormsApp5\bin\Debug\ExploreTheHouse.exe
+C:\Users\flothow\source\repos\ExploreTheHouse\WindowsFormsApp5\bin\Debug\ExploreTheHouse.pdb
+C:\Users\flothow\source\repos\ExploreTheHouse\WindowsFormsApp5\obj\Debug\ExploreTheHouse.csprojResolveAssemblyReference.cache
+C:\Users\flothow\source\repos\ExploreTheHouse\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\flothow\source\repos\ExploreTheHouse\WindowsFormsApp5\obj\Debug\ExploreTheHouse.Properties.Resources.resources
+C:\Users\flothow\source\repos\ExploreTheHouse\WindowsFormsApp5\obj\Debug\ExploreTheHouse.csproj.GenerateResource.Cache
+C:\Users\flothow\source\repos\ExploreTheHouse\WindowsFormsApp5\obj\Debug\ExploreTheHouse.csproj.CoreCompileInputs.cache
+C:\Users\flothow\source\repos\ExploreTheHouse\WindowsFormsApp5\obj\Debug\ExploreTheHouse.exe
+C:\Users\flothow\source\repos\ExploreTheHouse\WindowsFormsApp5\obj\Debug\ExploreTheHouse.pdb
